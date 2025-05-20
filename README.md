@@ -1,4 +1,4 @@
-🧩 ##IDE Capabilities##
+🧩 IDE Capabilities
 
 📁 File Explorer: Lists all files in the selected project
 
